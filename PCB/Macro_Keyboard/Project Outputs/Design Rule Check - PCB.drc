@@ -1,0 +1,58 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Macro_Keyboard\PCB.PcbDoc
+Date     : 2024-05-07
+Time     : 4:34:04 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.4mm) (InNet('5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.4mm) (InNet('NeoPixel 5V'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.09mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.09mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Un-Routed Net Constraint ( (All) )
+   Waived Violation between Un-Routed Net Constraint: Net GND Between Pad U6-3(59.35mm,56.7mm) on Bottom Layer And Pad C2-1(66.5mm,58.775mm) on Bottom Layer Waived by Joel Lee at 2024-05-07 4:33:16 PM
+Waived Violations :1
+
+
+Violations Detected : 0
+Waived Violations : 1
+Time Elapsed        : 00:00:02
